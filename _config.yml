@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vaihdp.github.io
+title: Memarkhan
+tagline: Readings for Architects
+description: My awesome new site
+paginate: 5
